@@ -11,6 +11,9 @@
 1 занятие (12.05.2020)  
 [Гид по git. Стиль PEP8. Основы работы с Jupyter. Целые и вещественные числа, логические переменные. Строки, ввод и форматирование](https://github.com/pileyan/DPO_Python_v2/tree/master/1_Introduction)
 
+2 занятие (16.05.2020) 
+[Контейнеры в Python: списки, кортежи, множества, словари. Индексация и срезы. Методы строк и списков.](https://github.com/pileyan/DPO_Python_v2/tree/master/2_Containers_Conditions)
+
 Материалы для тренировки  
 [Ссылки и краткие описания](https://github.com/rogovich/2020_DPO_PythonProg/blob/master/dopmaterialy.md)
 

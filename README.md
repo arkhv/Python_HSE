@@ -23,7 +23,9 @@
 
 5 занятие (27.05.2020)
 [Устройство функций в Python. Написание простейших функций. Lambda-функции. Функция map(). Написание сложных функций. генераторы, Декораторы, Рекурсия.]
-()
+(https://github.com/pileyan/DPO_Python_v2/tree/master/5_Functions)
+
+
 Материалы для тренировки  
 [Ссылки и краткие описания](https://github.com/rogovich/2020_DPO_PythonProg/blob/master/dopmaterialy.md)
 

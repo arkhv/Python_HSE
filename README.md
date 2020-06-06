@@ -18,13 +18,16 @@
 [Регулярные выражения. Использование регулярных выражений для поиска и предобработки текста.](https://github.com/pileyan/DPO_Python_v2/tree/master/3_regexp)
 
 4 занятие (23.05.2020)
-[Цикл for. Применение циклов к строкам, спискам, кортежам и словарям. Альтернатива коду с циклами: списковые включения. Итераторы, генераторы списков.]
-(https://github.com/pileyan/DPO_Python_2020/tree/master/4_For_loop)
+[Цикл for. Применение циклов к строкам, спискам, кортежам и словарям. Альтернатива коду с циклами: списковые включения. Итераторы, генераторы списков.](https://github.com/pileyan/DPO_Python_2020/tree/master/4_For_loop)
 
 5 занятие (27.05.2020)
-[Устройство функций в Python. Написание простейших функций. Lambda-функции. Функция map(). Написание сложных функций. генераторы, Декораторы, Рекурсия.]
-(https://github.com/pileyan/DPO_Python_v2/tree/master/5_Functions)
+[Устройство функций в Python. Написание простейших функций. Lambda-функции. Функция map(). Написание сложных функций. генераторы, Декораторы, Рекурсия.](https://github.com/pileyan/DPO_Python_v2/tree/master/5_Functions)
 
+6 занятие (03.06.2020)
+[О-нотация, Эффективность работы кода на примере алгоритмов сортировки. Исключения. Работа с файлами: чтение и запись. Поиск ошибок в коде и отладка.](https://github.com/pileyan/DPO_Python_v2/tree/master/6_sorting_files)
+
+7 занятие (04.06.2020)
+[Сбор данных: введение в html. Сбор данных: web-scraping с BeautifulSoup](https://github.com/pileyan/DPO_Python_v2/tree/master/7_Beautiful_soup_HTML)
 
 Материалы для тренировки  
 [Ссылки и краткие описания](https://github.com/rogovich/2020_DPO_PythonProg/blob/master/dopmaterialy.md)

@@ -27,7 +27,10 @@
 [О-нотация, Эффективность работы кода на примере алгоритмов сортировки. Исключения. Работа с файлами: чтение и запись. Поиск ошибок в коде и отладка.](https://github.com/pileyan/DPO_Python_v2/tree/master/6_sorting_files)
 
 7 занятие (04.06.2020)
-[Сбор данных: введение в html. Сбор данных: web-scraping с BeautifulSoup](https://github.com/pileyan/DPO_Python_v2/tree/master/7_Beautiful_soup_HTML)
+[Сбор данных: введение в html, web-scraping с BeautifulSoup](https://github.com/pileyan/DPO_Python_v2/tree/master/7_Beautiful_soup_HTML)
+
+8 занятие (06.06.2020)
+[Сбор данных: web-scraping с BeautifulSoup(Продолжение).Продвинутая работа со словарями. Работа с файлами типа JSON и XML, работа с сервисами через API](https://github.com/pileyan/DPO_Python_v2/tree/master/8_JSON_XML)
 
 Материалы для тренировки  
 [Ссылки и краткие описания](https://github.com/rogovich/2020_DPO_PythonProg/blob/master/dopmaterialy.md)

@@ -51,7 +51,8 @@
 1 занятие (30.06.2020)
 [Введение в numpy: векторы и матрицы. Математические операции с векторами и матрицами.](https://github.com/pileyan/DPO_Python_v2/tree/master/13_Numpy)
 
-
+2 занятие (01.07.2020)
+[Введение в pandas: работа с данными в табличном виде. Фильтрация и агрегация.](https://github.com/pileyan/DPO_Python_v2/tree/master/14_Pandas)
 
 Материалы для тренировки  
 [Ссылки и краткие описания](https://github.com/rogovich/2020_DPO_PythonProg/blob/master/dopmaterialy.md)
